@@ -1,5 +1,5 @@
 # library_map
-A text-based application that 
+A python text-based application that 
 1. prompts the user to select one of three options: whether to enter a subject name or partname (e.g. “English”), a classmark, or a location;
 2. prompts (according to the previous response) the user to enter the subject name/part-name, classmark or location (with location
 options displayed); and
